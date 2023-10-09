@@ -1,3 +1,11 @@
+![Screenshot 2023-10-10 045856](https://github.com/anvicoder/Stock-Analysis/assets/98900220/c76dbc3b-ea1e-4b76-bc39-4886f4a63469)
+![Screenshot 2023-10-10 045959](https://github.com/anvicoder/Stock-Analysis/assets/98900220/770a8630-c37e-4135-b49a-6bf56638c2c1)
+![Screenshot 2023-10-10 050020](https://github.com/anvicoder/Stock-Analysis/assets/98900220/9957eb50-3686-4273-9c7c-274719956314)
+![Screenshot 2023-10-10 050101](https://github.com/anvicoder/Stock-Analysis/assets/98900220/e7d1f6f1-cc6a-4d63-95eb-5222febe6ee2)
+![Screenshot 2023-10-10 050144](https://github.com/anvicoder/Stock-Analysis/assets/98900220/b6d84122-cf4f-4771-b71a-d444c2302216)
+![Screenshot 2023-10-10 050208](https://github.com/anvicoder/Stock-Analysis/assets/98900220/165f30e3-1387-4b0a-adf9-faa7d41e5935)
+![Screenshot 2023-10-10 050238](https://github.com/anvicoder/Stock-Analysis/assets/98900220/98e027dc-a766-44a0-8e8e-df48cba018ec)
+![Screenshot 2023-10-10 050317](https://github.com/anvicoder/Stock-Analysis/assets/98900220/61ac548e-b483-4732-a4e3-75a6134bcd1d)
 
 # Stock Analysis Web App using StreamLit and Python
 
